@@ -1,2 +1,1 @@
-# PrepCourse-henry
-Este es un repositorio de prueba
+Este es un proyecto de prueba de Josue Florez
